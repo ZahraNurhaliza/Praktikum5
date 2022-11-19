@@ -19,10 +19,11 @@ Tambah elemen list:
 • gabungkan list B dengan list A
 
 ### Program
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Latihan.png)
+![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Latihan(1).png)
 
 ### RUN
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Latihan(RUN).png)
 
 
 ## Praktikum 5
@@ -37,14 +38,13 @@ uts: 35%, uas: 35%)
 • Buat flowchart dan penjelasan programnya
 
 ### Flowchart
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Flowchart.png)
 
 ### Program
-![image](
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Praktikum5.png)
 
 ###RUN
-![image](
+![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Praktikum5(RUN).png)
 
 ### Penjelasan Program
 1. Buatlah list berupa Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS
