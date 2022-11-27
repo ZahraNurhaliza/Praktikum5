@@ -43,7 +43,7 @@ uts: 35%, uas: 35%)
 ### Program
 ![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Praktikum5.png)
 
-###RUN
+### RUN
 ![image](https://github.com/ZahraNurhaliza/Praktikum5/blob/main/screenshot/Praktikum5(RUN).png)
 
 ### Penjelasan Program
